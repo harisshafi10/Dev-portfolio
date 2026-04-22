@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* 🎯 Design Tokens (2026 approach) */
+:root {
+  --color-primary: #ff3b3b;
+  --color-bg: #0b0b0b;
+  --color-card: #111111;
+  --color-muted: #9ca3af;
+
+  --radius-pill: 9999px;
+}
+
+/* Optional container utility */
+.container-custom {
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
