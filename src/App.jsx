@@ -7,7 +7,7 @@ import Contact from './Components/Contact'
 
 const App = () => {
   return (
-    <div className='bg-[#0b0b0b] text-white w-370 h-700  flex flex-col items-center '>
+    <div className='bg-[#161513] text-white w-370 h-700  flex flex-col items-center '>
     <Header/>
     <Hero/>
     <Project/>
