@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Header = () => {
   return (
-    <div className='fixed bg-[#222222] w-screen h-[82.18px] text-white flex'>
+    <div className='fixed bg-[#222222] w-370 h-[82.18px] text-white flex'>
         <Navbar/>
     </div>
   )

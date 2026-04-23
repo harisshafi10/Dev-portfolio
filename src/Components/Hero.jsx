@@ -3,7 +3,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='flex items-center w-150 h-191 flex-col mt-21 gap-10'>
+    <div className='flex items-center w-[1448.25px] h-191 flex-col mt-30 gap-20'>
       <div className=' text-black w-62 h-55  flex justify-center items-center mt-10'>
          <img src="https://static.vecteezy.com/system/resources/previews/057/642/922/non_2x/vibrant-3d-user-profile-icon-in-orange-and-blue-free-png.png" alt="logo" />
       </div>
